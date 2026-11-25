@@ -1,0 +1,6 @@
+{
+  "name": "Midgar Archives: Shinra Data Hunt",
+  "description": "A FFVII-inspired local turn-based multiplayer terminal game for 2-4 players hacking Shinra records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
